@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "E-Library",
+    "description": "A DSH e-book library: import EPUB/TXT books, keep your place, and discover books on Douban.",
+    "detail": "docs/DETAIL.md"
+  }
+}

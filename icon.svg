@@ -1,0 +1,18 @@
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="el-book-a" x1="7" y1="5" x2="22" y2="29" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6D8DFF"/>
+      <stop offset="1" stop-color="#8A5CF6"/>
+    </linearGradient>
+    <linearGradient id="el-book-b" x1="18" y1="9" x2="30" y2="29" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F2B75B"/>
+      <stop offset="1" stop-color="#E8794A"/>
+    </linearGradient>
+  </defs>
+  <path d="M5.2 9.7a2.2 2.2 0 0 1 1.56-2.7l8.9-2.45a2.2 2.2 0 0 1 2.7 1.56l4.6 16.7a2.2 2.2 0 0 1-1.56 2.7l-8.9 2.45a2.2 2.2 0 0 1-2.7-1.56L5.2 9.7Z" fill="url(#el-book-a)"/>
+  <path d="M11.2 6.9 14.9 20l2.6-.72-3.7-13.1-2.6.72Z" fill="#FFFFFF" fill-opacity="0.24"/>
+  <rect x="19.5" y="9.1" width="6.2" height="18.4" rx="2.1" fill="url(#el-book-b)"/>
+  <rect x="26.5" y="13.6" width="4.7" height="13.9" rx="1.9" fill="#7FB69A"/>
+  <path d="M4.2 28.2c5.8 1.7 22.9 1.7 27.9 0" stroke="#94A3B8" stroke-width="2.1" stroke-linecap="round"/>
+  <path d="M8 9.2 12 22" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1.1" stroke-linecap="round"/>
+</svg>

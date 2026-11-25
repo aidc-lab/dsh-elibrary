@@ -1,0 +1,6 @@
+# dsh-elibrary bundle patch: one Host plugin row and its browser half.
+- insert:
+    - id: dsh-elibrary
+      name: dsh-elibrary
+      config:
+        requestTimeoutMs: 10000
